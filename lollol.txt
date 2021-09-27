@@ -1,0 +1,5 @@
+{
+	"ip":"adanumair.aternos.me",
+	"port": "42074",
+	"name": "bluestar"
+}
